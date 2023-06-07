@@ -105,6 +105,8 @@ void loop()
 
 ![image](https://user-images.githubusercontent.com/119577543/233996159-1f7093a5-26a8-47b6-85a3-bac00fa34cb3.png)
 
+#RESULT:
 
+Thus the given interfacing a digital input and blink LED is sucessfully done through tinker CAD.
 
 
